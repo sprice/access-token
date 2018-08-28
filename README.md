@@ -44,6 +44,8 @@ $ cd access-token
 $ npm install
 ```
 
+Note that `npm install` will compile the contracts. You can run `npm run compile` which will remove the `./build` directory and compile the contracts again.
+
 ## Smart Contract Compilation, Testing, and Migration
 
 ### About the tests
