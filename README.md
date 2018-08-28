@@ -39,8 +39,8 @@ The following are requirements for installation:
 This project is built and tested using `node@10.9.0`, and `npm@6.2.0`.
 
 ```
-$ git clone https://github.com/sprice/access-token-react.git
-$ cd access-token-react
+$ git clone https://github.com/sprice/access-token.git
+$ cd access-token
 $ npm install
 ```
 
