@@ -1,0 +1,6 @@
+/build
+/build_webpack
+/deploy
+/node_modules
+.env
+flattened-contract.txt
